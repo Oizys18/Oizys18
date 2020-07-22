@@ -1,4 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOizys18)](https://hits.seeyoufarm.com)
+[<center>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOizys18)</center>](https://hits.seeyoufarm.com)
+
+### Currently
 - ✏ Learning JS
 - 🛠 Working on MangoBox 
 
