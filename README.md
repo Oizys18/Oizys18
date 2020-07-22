@@ -1,7 +1,17 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOizys18)](https://hits.seeyoufarm.com)
+- ✏ Learning JS
+- 🛠 Working on MangoBox 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOizys18%2Fhit-counter)](https://hits.seeyoufarm.com)
-### ​서울 거주🌇, 경영학사👨‍🎓, 주니어 개발자👨‍💻
+### Seeking for a job
 - [Notion Resume](https://www.notion.so/devcatfall/d32421df0a9744fbb8aef2a43326a47f)
+
+### Interest
+- Frontend engineering
+  - Javascript
+  - UI/UX
+- Marketing, Sales, Accounting 
+- Game development
+
 
 <!--
 **Oizys18/Oizys18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
