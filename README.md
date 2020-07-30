@@ -6,7 +6,8 @@
 
 ### Currently 
 - ✏ Learning JS
-- 🛠 Working on MangoBox 
+- 🛠 Working on MangoBox
+- 🛠 Working on [Blog](https://oizys18.github.io/)
 
 ### Seeking for a job
 - [Notion Resume](https://www.notion.so/devcatfall/d32421df0a9744fbb8aef2a43326a47f)
