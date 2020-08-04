@@ -6,7 +6,7 @@
 
 ### Currently 
 - ✏ Learning JS
-- 🛠 Working on MangoBox
+- 🛠 Working on [MangoBox](https://github.com/Oizys18/MangoBox)
 - 🛠 Working on [Blog](https://oizys18.github.io/)
 
 ### Seeking for a job
