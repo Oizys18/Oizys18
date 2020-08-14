@@ -12,9 +12,9 @@
 ### Seeking for a job
 - [Notion Resume](https://www.notion.so/devcatfall/d32421df0a9744fbb8aef2a43326a47f)
 ### Participated Projects 
-- ![https://github.com/Oizys18/GREAT](https://img.shields.io/badge/PJT-그래잇(GREAT)-orange)
-- ![https://github.com/Oizys18/BSDS](https://img.shields.io/badge/PJT-분실둥실(BSDS)-blue)
-- ![https://github.com/Oizys18/AROSAEGIM](https://img.shields.io/badge/PJT-아로새김(Arosaegim)-red)
+- [![그래잇](https://img.shields.io/badge/PJT-그래잇(GREAT)-orange)](https://github.com/Oizys18/GREAT)
+- [![분실둥실](https://img.shields.io/badge/PJT-분실둥실(BSDS)-blue)](https://github.com/Oizys18/BSDS)
+- [![아로새김](https://img.shields.io/badge/PJT-아로새김(Arosaegim)-red)](https://github.com/Oizys18/AROSAEGIM)
 
 ### Interest
 - Frontend engineering
