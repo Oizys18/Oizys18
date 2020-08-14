@@ -14,7 +14,7 @@
 ### Participated Projects 
 - ![https://github.com/Oizys18/GREAT](https://img.shields.io/badge/PJT-그래잇(GREAT)-orange)
 - ![https://github.com/Oizys18/BSDS](https://img.shields.io/badge/PJT-분실둥실(BSDS)-blue)
-- ![https://github.com/Oizys18/AROSAEGIM](https://img.shields.io/badge/PJT-아로새김(Arosaegim)-coral)
+- ![https://github.com/Oizys18/AROSAEGIM](https://img.shields.io/badge/PJT-아로새김(Arosaegim)-red)
 
 ### Interest
 - Frontend engineering
