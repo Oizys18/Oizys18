@@ -17,8 +17,9 @@
 - [![아로새김](https://img.shields.io/badge/PJT-아로새김(Arosaegim)-red)](https://github.com/Oizys18/AROSAEGIM)
 
 ### Interest
-- Frontend engineering
+- Frontend
   - Javascript
+  - Frameworks: Vuejs, React
   - UI/UX
 - Marketing, Sales, Accounting 
 - Game development
