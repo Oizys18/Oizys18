@@ -24,6 +24,9 @@
 - Marketing, Sales, Accounting 
 - Game development
 
+### 🌱 I’m currently learning ...
+- NodeJS Express 
+- React + TS 
 
 <!--
 **Oizys18/Oizys18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
