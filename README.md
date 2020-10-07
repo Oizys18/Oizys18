@@ -10,7 +10,7 @@
 - 🛠 Working on [Blog](https://oizys18.github.io/)
 
 ### Seeking for a job
-- [Notion Resume](https://www.notion.so/devcatfall/d32421df0a9744fbb8aef2a43326a47f)
+- [Notion Resume](https://www.notion.so/chanwoo20/d32421df0a9744fbb8aef2a43326a47f)
 ### Participated Projects 
 - [![그래잇](https://img.shields.io/badge/PJT-그래잇(GREAT)-orange)](https://github.com/Oizys18/GREAT)
 - [![분실둥실](https://img.shields.io/badge/PJT-분실둥실(BSDS)-blue)](https://github.com/Oizys18/BSDS)
