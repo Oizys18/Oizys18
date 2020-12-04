@@ -4,28 +4,18 @@
 
 </div>
 
-### Currently 
-- ✏ Learning JS
-- 🛠 Working on [Blog](https://oizys18.github.io/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oizys18)](https://github.com/oizys18/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oizys18&layout=compact)](https://github.com/oizys18/github-readme-stats)
 
 ### Seeking for a job
 - [Notion Resume](https://www.notion.so/chanwoo20/d32421df0a9744fbb8aef2a43326a47f)
-### Participated Projects 
+
+<!-- ### Participated Projects 
 - [![그래잇](https://img.shields.io/badge/PJT-그래잇(GREAT)-orange)](https://github.com/Oizys18/GREAT)
 - [![분실둥실](https://img.shields.io/badge/PJT-분실둥실(BSDS)-blue)](https://github.com/Oizys18/BSDS)
 - [![아로새김](https://img.shields.io/badge/PJT-아로새김(Arosaegim)-red)](https://github.com/Oizys18/AROSAEGIM)
-
-### Interest
-- Frontend
-  - Javascript
-  - Frameworks: Vuejs, React
-  - UI/UX
-- Marketing, Sales, Accounting 
-- Game development
-
-### 🌱 I’m currently learning ...
-- NodeJS Express 
-- React + TS 
+--> 
 
 <!--
 **Oizys18/Oizys18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
