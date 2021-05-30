@@ -4,16 +4,15 @@
 
 </div>
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oizys18)](https://github.com/oizys18/github-readme-stats) -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oizys18)](https://github.com/oizys18/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oizys18&layout=compact)](https://github.com/oizys18/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oizys18&layout=compact)](https://github.com/oizys18/github-readme-stats)
 
 ### Seeking for a job
 - [Notion Resume](https://www.notion.so/chanwoo20/d32421df0a9744fbb8aef2a43326a47f)
 
 ### BLOG (*이관중)
-- https://oizys18.github.io/
-- https://oizys.tistory.com/  
+- https://oizys18.github.io/  -> https://oizys.tistory.com/
 
 <!-- ### Participated Projects 
 - [![그래잇](https://img.shields.io/badge/PJT-그래잇(GREAT)-orange)](https://github.com/Oizys18/GREAT)
