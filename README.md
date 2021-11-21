@@ -1,6 +1,6 @@
 #### [📚블로그 / Dev BLOG](https://oizys.tistory.com/)
 
-#### [🏗포트폴리오 / Porfolio](https://oizys18.netlify.app) [![Netlify Status](https://api.netlify.com/api/v1/badges/67f30f92-5216-4d7f-bba3-836081ede21e/deploy-status)](https://app.netlify.com/sites/oizys18/deploys) 
+#### [🏗포트폴리오 / Porfolio](https://oizys18.netlify.app) (개발중) [![Netlify Status](https://api.netlify.com/api/v1/badges/67f30f92-5216-4d7f-bba3-836081ede21e/deploy-status)](https://app.netlify.com/sites/oizys18/deploys) 
 
 #### [👨‍💼자기소개/Resume](https://chanwoo20.notion.site/659bf18fe1df459093081aa18acd4ede)
 
