@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/Oizys18/Oizys18/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Oizys18/Oizys18/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Oizys18/Oizys18/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
-[🏗포트폴리오 / Porfolio](https://oizys18.vercel.app/) (개발중)
+[🏗this.self : Porfolio](https://oizys18.vercel.app/) (개발중)
 
 [📚블로그 / Dev BLOG](https://oizys.tistory.com/)
 
