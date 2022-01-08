@@ -5,7 +5,7 @@
 
 ### [📚블로그 / Dev BLOG](https://oizys.tistory.com/)
 
-### [👨‍💼자기소개/Resume](https://programmers.co.kr/pr/oizys18_9403)
+<!-- ### [👨‍💼자기소개/Resume](https://programmers.co.kr/pr/oizys18_9403) -->
 
 
 
